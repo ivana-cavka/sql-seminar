@@ -1,0 +1,6 @@
+C:\IT\praktikum iz SQLa\SqlSeminar\SqlSeminar\x64\Debug\SqlSeminar.vcxproj.AssemblyReference.cache
+C:\IT\praktikum iz SQLa\SqlSeminar\SqlSeminar\x64\Debug\SqlSeminar.vcxproj.SuggestedBindingRedirects.cache
+C:\IT\praktikum iz SQLa\SqlSeminar\SqlSeminar\x64\Debug\SqlSeminar.MainForm.resources
+C:\IT\praktikum iz SQLa\SqlSeminar\SqlSeminar\x64\Debug\SqlSeminar.vcxproj.GenerateResource.cache
+C:\IT\praktikum iz SQLa\SqlSeminar\SqlSeminar\x64\Debug\SqlSeminar.AddNewSchema.resources
+C:\IT\praktikum iz SQLa\SqlSeminar\SqlSeminar\x64\Debug\SqlSeminar.DeleteSchema.resources
